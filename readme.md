@@ -1,0 +1,1 @@
+https://github.com/nlohmann/json version v3.11.2
